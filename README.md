@@ -9,6 +9,6 @@ This Project is a beginner friendly project I built using HTML,CSS,JS . Some key
 
 – An Audio Progress Bar provided at Bottom and website is Responsive as well.
 
-![](COVID-19.png)
+![](https://github.com/garg-vanshu786/Music-Player/blob/main/Screenshot%202022-09-22%20162238.png)
 
 
